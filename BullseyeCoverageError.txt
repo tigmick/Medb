@@ -1,0 +1,1 @@
+BullseyeCoverage 8.9.52 error 15: Cannot find C:\Users\minny\AppData\Local\join.me/test.cov. COVFILE is not set, errno=2. Executable is C:\Users\minny\AppData\Local\join.me.launcher\ExternalLibs\x86\JoinMe.Launcher.Win.Wrapper.dll
