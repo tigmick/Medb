@@ -1,0 +1,1 @@
+route.exe DELETE 0.0.0.0 MASK 0.0.0.0 192.168.1.1
